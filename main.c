@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-	puts("Hello world!");
+	puts("Hello GitHub!");
 	return 0;
 }
